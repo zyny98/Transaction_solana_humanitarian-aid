@@ -1,0 +1,6 @@
+{
+  "name": "AidChain (ClearGrant) - Web3 Благотворительность на Solana",
+  "description": "Прозрачная децентрализованная платформа благотворительных грантов, поэтапного эскроу-финансирования и AI-валидации чеков с фиксацией в Solana Devnet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
